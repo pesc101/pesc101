@@ -1,3 +1,13 @@
+### Hi there <a href="https://www.linkedin.com/in/janstrich/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I open source stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning everything related to Python packaging 
+- 💬 &nbsp;Ask me about anything related to Python or R
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/janstrich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan-strich" height="30" width="40" /></a>
 
 ### Languages
 
